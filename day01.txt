@@ -5,3 +5,8 @@
 	
 
 2：试试对这个txt文件进行修改一下再提交
+	git add day01.txt 
+	git commit  提交到本地仓库
+	git push	push到远程中央仓库
+
+3：模拟同事修改这个文件

@@ -1,4 +1,4 @@
-今天是系统学习分布式版本管理工具Git的第一天，ok go go go!
+﻿今天是系统学习分布式版本管理工具Git的第一天，ok go go go!
 1：git status 查看一下状态
    git add day01.txt 把day01.txt文件增加到版本控制中
    git commit 把文件提交到本地仓库中
@@ -11,4 +11,4 @@
 
 3：模拟同事修改这个文件
 
-4；feature1分支 marge到master
+4：feature1分支 marge到master（master分支修改）
